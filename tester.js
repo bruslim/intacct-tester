@@ -1,6 +1,6 @@
 /***********************************************
- * Node JS Test Client for Intacct XML API
- * author: brian ruslim
+ * Unofficial Node JS Test Client for Intacct XML API
+ * author: brian ruslim (author is not affiliated with intacct)
  * date: 2012-02-29 
  * usage: node tester.js < in.xml > out.txt
  ***********************************************/
