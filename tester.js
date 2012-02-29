@@ -3,6 +3,7 @@
  * author: brian ruslim (author is not affiliated with intacct)
  * date: 2012-02-29 
  * usage: node tester.js < in.xml > out.txt
+ * licence: cc0 - public domain - no warranty
  ***********************************************/
 
 var https = require('https');
